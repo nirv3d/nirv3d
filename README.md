@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-### ⚽ FutSoul — AI Football Prediction System
+### ⚽ FutSoul - AI Football Prediction System
 > Natural language football prediction trained on **47,000+ international matches**
 
 - TensorFlow deep learning model for match outcome prediction
