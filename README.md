@@ -9,22 +9,13 @@
 
 ---
 
-**CSE undergrad @ KIIT Bhubaneswar** — building AI systems, predicting football matches, and occasionally dropping beats under the name **NRVD** 🎵
-
-```python
-nirved = {
-    "focus"     : ["AI/ML", "NLP", "Backend Systems"],
-    "currently" : "Dynamic Pricing framework + FutSoul v2",
-    "learning"  : ["RAG pipelines", "LLM integration", "Docker"],
-    "fun_fact"  : "BeatStars Freshman Class of 2025 🎤"
-}
-```
+**CSE undergrad @ KIIT Bhubaneswar** — building AI/ML systems
 
 ---
 
 ## 🚀 Projects
 
-### ⚽ [FutSoul — AI Football Prediction System](https://github.com/nirvedjaiswal)
+### ⚽ FutSoul — AI Football Prediction System
 > Natural language football prediction trained on **47,000+ international matches**
 
 - TensorFlow deep learning model for match outcome prediction
