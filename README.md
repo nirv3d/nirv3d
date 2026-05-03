@@ -29,7 +29,7 @@
 > Natural language football prediction trained on **47,000+ international matches**
 
 - TensorFlow deep learning model for match outcome prediction
-- Groq LLaMA integration for NLP query parsing — handles typos, synonyms, conversational phrasing
+- Groq LLaMA integration for NLP query parsing, handles typos, synonyms, conversational phrasing
 - Features: recent form, home advantage, historical win rates
 
 ### 🏷️ Dynamic Pricing for Retail (Ongoing)
