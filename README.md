@@ -15,6 +15,16 @@
 
 ## 🚀 Projects
 
+### 🚗 Smart Driving Decision System
+> A mini self-driving brain — real-time object detection, scene understanding & explainable driving decisions
+
+- YOLOv8-powered detection of pedestrians, cars, and traffic signals from video/webcam input
+- Context-aware scene interpretation: distance estimation via bounding box heuristics, object prioritization, traffic light state detection
+- Risk-score based decision engine producing **STOP / SLOW DOWN / GO** with plain-language explanations (e.g. *"Pedestrian detected at close distance"*)
+- Streamlit dashboard with live bounding box feed, color-coded risk levels, and real-time decision overlay
+
+[![Repo](https://img.shields.io/badge/GitHub-Smart--Driving--Decision--System-181717?style=flat-square&logo=github)](https://github.com/nirv3d/smart-driving-decision-system)
+
 ### ⚽ FutSoul - AI Football Prediction System
 > Natural language football prediction trained on **47,000+ international matches**
 
@@ -41,7 +51,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Also working with:** NLP · RAG · N8N · matplotlib · C/C++
+**Also working with:** NLP · RAG · N8N · matplotlib · C/C++ · YOLOv8 · OpenCV · Streamlit
 
 ---
 
@@ -54,21 +64,6 @@
 ---
 
 <div align="center">
-  <i>Open to Summer 2025 internship opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
+  <i>Open to Summer 2026 internship opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
   <a href="https://linkedin.com/in/nirvedjaiswal">Let's connect →</a>
 </div>
-
-<!--
-**nirv3d/nirv3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
