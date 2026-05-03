@@ -23,7 +23,7 @@
 - Risk-score based decision engine producing **STOP / SLOW DOWN / GO** with plain-language explanations (e.g. *"Pedestrian detected at close distance"*)
 - Streamlit dashboard with live bounding box feed, color-coded risk levels, and real-time decision overlay
 
-[![Repo](https://img.shields.io/badge/GitHub-Smart--Driving--Decision--System-181717?style=flat-square&logo=github)](https://github.com/nirv3d/smart-driving-decision-system)
+[![Repo](https://img.shields.io/badge/GitHub-Smart--Driving--Decision--System-181717?style=flat-square&logo=github)](https://github.com/nirv3d/smart_driving)
 
 ### ⚽ FutSoul - AI Football Prediction System
 > Natural language football prediction trained on **47,000+ international matches**
