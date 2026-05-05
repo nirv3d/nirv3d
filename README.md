@@ -9,7 +9,7 @@
 
 ---
 
-**CSE undergrad @ KIIT Bhubaneswar** — building real-world AI/ML systems and scalable backend applications
+**CSE undergrad @ KIIT Bhubaneswar** | building real-world AI/ML systems and scalable backend applications
 
 ---
 
