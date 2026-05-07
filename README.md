@@ -2,6 +2,7 @@
 
 # hey, I'm Nirved 👋
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirvedjaiswal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirved@nirved.com)
 
@@ -74,5 +75,7 @@
   <i>Open to Summer 2026 internship opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
   <a href="https://linkedin.com/in/nirvedjaiswal">Let's connect →</a>
   <br>
+  <br>
+
 ![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
 </div>
