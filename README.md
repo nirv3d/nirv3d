@@ -10,6 +10,7 @@
 ---
 
 **CSE undergrad @ KIIT Bhubaneswar** | building real-world AI/ML systems and scalable backend applications
+<br>
 ![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
 
 ---
