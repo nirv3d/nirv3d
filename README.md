@@ -68,11 +68,11 @@
 - ♟️ **Strategy & Game Theory for Management** — IIM Ahmedabad, Coursera (2026)  
 
 ---
-<br>
-![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
----
+
 
 <div align="center">
   <i>Open to Summer 2026 internship opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
   <a href="https://linkedin.com/in/nirvedjaiswal">Let's connect →</a>
+  <br>
+![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
 </div>
