@@ -10,8 +10,6 @@
 ---
 
 **CSE undergrad @ KIIT Bhubaneswar** | building real-world AI/ML systems and scalable backend applications
-<br>
-![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
 
 ---
 
@@ -69,6 +67,9 @@
 - 📊 **Business Analytics for Decision Making** — University of Colorado, Coursera (2026)  
 - ♟️ **Strategy & Game Theory for Management** — IIM Ahmedabad, Coursera (2026)  
 
+---
+<br>
+![](https://komarev.com/ghpvc/?username=nirved&label=Profile+Views&color=blueviolet&style=flat)
 ---
 
 <div align="center">
