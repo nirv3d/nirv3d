@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirvedjaiswal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirved.jaiswal@gmail.com)
 
-### ✦ Visit [nirved.in](https://nirved.in) ✦
+### ✦ VISIT [nirved.in](https://nirved.in) ✦
 
 </div>
 
