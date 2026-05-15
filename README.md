@@ -35,9 +35,10 @@
 ### ⚽ FutSoul - AI Football Prediction System
 > Natural language football prediction trained on **47,000+ international matches**
 
-- TensorFlow deep learning model for match outcome prediction  
-- Groq LLaMA integration for NLP query parsing (handles typos, synonyms, conversational phrasing)  
-- Feature engineering using recent form, home advantage, and historical performance  
+- Built an NLP-powered football analytics system trained on 47,000+ international matches, capable of answering natural language queries about teams, predictions, and match outcomes. 
+- Developed a custom NLP query understanding pipeline for intent detection, entity extraction, typo correction, and conversational input processing without relying on external LLM APIs. 
+- Designed a keyboard-driven conversational interface enabling users to interact with predictive analytics models through
+natural language instead of structured commands. 
 
 ---
 
