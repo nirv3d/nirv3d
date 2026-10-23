@@ -75,7 +75,7 @@ natural language instead of structured commands.
 
 
 <div align="center">
-  <i>Open to Summer 2026 internship opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
+  <i>Open to opportunities in AI/ML, Software Engineering, or Data Science.</i><br><br>
   <a href="https://linkedin.com/in/nirvedjaiswal">Let's connect →</a>
   <br>
   <br>
